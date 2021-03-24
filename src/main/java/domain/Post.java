@@ -8,5 +8,13 @@ public class Post {
     private LikesInfo likesInfo;
     private CommentsInfo commentsInfo;
     private Content content;
+    private Copyright copyright;
+    private RepostsInfo repostsInfo;
+    private Geo geo;
+    private Donut donut;
+    private boolean canPin;
+    private boolean canDelete;
+    private boolean canEdit;
+    private boolean isFavorite;
 
 }
