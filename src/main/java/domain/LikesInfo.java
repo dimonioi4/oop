@@ -1,9 +1,8 @@
 package domain;
 
 public class LikesInfo {
-    private int likesCount;
-    private boolean userLike;
-    private boolean canLike;
-    private boolean isLike;
-    private boolean canPublish;
+    private int count;
+    private int usersLikes;
+    private int canLikes;
+    private int canPublish;
 }
